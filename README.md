@@ -1,3 +1,5 @@
+中文（Chinese）/ [英文（English）](./README_en.md) 
+
 # An_Untitled_ChatAPP
 
 ## 一款暂未得到名字的聊天软件……

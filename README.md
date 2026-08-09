@@ -1,9 +1,12 @@
-An_Untitled_ChatAPP
+# An_Untitled_ChatAPP
 一款暂未得到名字的聊天软件……
 
 由于本人暂时缺乏软件开发所需的编程语言知识，因此此软件暂时只存在于幻想中。<br>此仓库目前处于 创意收集 / 头脑风暴 阶段。不过来了就看看吧！
 
-🌟 这是 An_Untitled_ChatAPP！
+<br>
+<br>
+
+# 🌟 这是 An_Untitled_ChatAPP！
 
 一款基于 开放通信协议 + 端侧AI能力 构想的跨平台聊天软件。<br>它不想做“另一个微信”或“另一个Telegram”，而是想尝试回答一个问题：
 

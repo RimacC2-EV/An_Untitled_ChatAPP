@@ -137,8 +137,6 @@ The core idea behind this combination: Build the core logic with a hardcore lang
 
 * Gestures: Are the "swipe to multi-select" and "draw a circle to select messages" ideas intuitive enough? Or are there more natural gesture alternatives?
 
-* Slow Social: If messages were actually delayed by several hours, would you find it "ceremonial" or just "annoying"? Please tell us what you really think.
-
 * Cross-platform Targets: We currently envision covering iOS / Android / Desktop (macOS/Windows/Linux). Do you think we should prioritize dropping any platform early on?
 
 * Anonymous Mode: Does the dual-track system of "standard registration + anonymous mode" alleviate your concerns about "privacy leakage"? Or do you think it's "unnecessary"?

@@ -112,15 +112,6 @@ While you type, the input box generates subtle particle animations based on loca
 
 This is not for show—it's about giving text-based chat back its "tone" and "warmth."
 
-## 🌌 Asynchronous "Slow Social" Mode
-If you're tired of the pressure of "seen but not replied," you can enable this mode.
-
-Messages sent in this mode are not delivered instantly. Instead, they travel across the screen as a visual "carrier pigeon flight" that takes several hours (the duration is set by you).
-
-The recipient will see the message arrive with the flight trail. Waiting, in exchange for appreciation.
-
-This is not a default feature, but an option for those who want it. You can choose never to use it, but it's there if you need it.
-
 # 🤖 Optional Local AI Assistant (Group Collaborator)
 You can choose to invite a local AI assistant into a group chat (e.g., a "Travel Planner" or "Health Manager").
 

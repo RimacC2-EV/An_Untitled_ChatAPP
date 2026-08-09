@@ -1,4 +1,4 @@
-[中文（Chinese）](./README_en.md) / 英文（English）
+[中文（Chinese）](./README.md) / 英文（English）
 # An_Untitled_ChatAPP
 A chat software that has not yet been named...
 
